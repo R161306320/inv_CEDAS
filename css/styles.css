@@ -1,0 +1,37 @@
+/* Estilos CSS */
+
+body {
+  background-color: #f8f9fa; /* Fondo */
+  font-family: 'Gotham', sans-serif;
+}
+
+.navbar {
+  background-color: #0d8949; /* Verde oscuro */
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: #ffffff; /* Blanco */
+}
+
+.navbar-nav .nav-link:hover {
+  color: #f4d03f; /* Amarillo */
+}
+
+.jumbotron {
+  background-color: #0d8949; /* Verde oscuro */
+  color: #ffffff; /* Blanco */
+}
+
+.container {
+  
+  padding: 20px; /* Espaciado interno */
+  margin-top: 20px; /* Margen superior */
+}
+
+.footer {
+  background-color: #0d8949; /* Verde oscuro */
+  
+  padding: 10px 0; /* Espaciado interno superior e inferior */
+}
+
